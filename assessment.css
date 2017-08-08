@@ -14,4 +14,8 @@ button {
 }
 input {
     height: 20px;
+    .marquee {
+overflow:-webkit-marquee;
+white-space:nowrap;
+}
 }
